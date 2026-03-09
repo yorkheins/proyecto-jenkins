@@ -1,0 +1,15 @@
+*.venv
+*.pytest_cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+*.coverage
+.tox/
+.pytest_cache/
+.mypy_cache/
+coverage.*
+junit.xml
+.cache  
