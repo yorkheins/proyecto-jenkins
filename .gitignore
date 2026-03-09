@@ -12,4 +12,7 @@ venv/
 .mypy_cache/
 coverage.*
 junit.xml
-.cache  
+.cache
+.venv/
+reports/
+artifacts/
